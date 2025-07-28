@@ -1,0 +1,48 @@
+/*
+ * Decompiled with CFR 0.152.
+ * 
+ * Could not load the following classes:
+ *  net.runelite.mapping.Export
+ *  net.runelite.mapping.ObfuscatedName
+ *  net.runelite.mapping.ObfuscatedSignature
+ */
+import java.util.Iterator;
+import net.runelite.mapping.Export;
+import net.runelite.mapping.ObfuscatedName;
+import net.runelite.mapping.ObfuscatedSignature;
+
+@ObfuscatedName(value="pp")
+public class class397 {
+    @ObfuscatedName(value="au")
+    @ObfuscatedSignature(descriptor="(Lna;IIIS)V", garbageValue="30618")
+    @Export(value="Widget_setKeyRate")
+    static final void Widget_setKeyRate(Widget widget, int n, int n2, int n3) {
+        if (widget.field3964 != null) {
+            widget.field3964[n] = n2;
+            widget.field3864[n] = n3;
+            return;
+        }
+        throw new RuntimeException();
+    }
+
+    @ObfuscatedName(value="nc")
+    @ObfuscatedSignature(descriptor="(I)V", garbageValue="-1383475643")
+    static final void method7892() {
+        Iterator iterator = Client.field508.iterator();
+        block0: while (iterator.hasNext()) {
+            class103 class1032 = (class103)iterator.next();
+            int n = 0;
+            while (true) {
+                if (n >= Client.field673.field1406) continue block0;
+                Player player = GameEngine.field189.field1329[Client.field673.field1412[n]];
+                if (player != null) {
+                    player.method2659();
+                }
+                ++n;
+            }
+            break;
+        }
+        return;
+    }
+}
+

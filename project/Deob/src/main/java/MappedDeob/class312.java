@@ -1,0 +1,14 @@
+/*
+ * Decompiled with CFR 0.152.
+ * 
+ * Could not load the following classes:
+ *  net.runelite.mapping.ObfuscatedName
+ */
+import net.runelite.mapping.ObfuscatedName;
+
+@ObfuscatedName(value="mk")
+public interface class312 {
+    @ObfuscatedName(value="ay")
+    public void method6541(Object var1);
+}
+

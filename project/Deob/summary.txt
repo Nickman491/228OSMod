@@ -1,0 +1,280 @@
+Summary for Deob-228.jar
+Decompiled with CFR 0.152
+
+
+old228.class1
+----------------------------
+
+method9(java.util.ArrayList int int int int boolean )
+  Unable to fully structure code
+
+
+old228.class46
+----------------------------
+
+method900(float[] int boolean old228.class60 )
+  Unable to fully structure code
+
+
+old228.class52
+----------------------------
+
+method1115()
+  Handled impossible loop by adding 'first' condition
+
+
+old228.class54
+----------------------------
+
+method1137(int )
+  Unable to fully structure code
+method1140(int[] )
+  Handled impossible loop by adding 'first' condition
+
+
+old228.client
+----------------------------
+
+vmethod1501()
+  Unable to fully structure code
+
+
+old228.class94
+----------------------------
+
+method2706(old228.class361[] int int int int int int int )
+  Unable to fully structure code
+
+
+old228.class99
+----------------------------
+
+method2776(int int int int int int )
+  Unable to fully structure code
+
+
+old228.class112
+----------------------------
+
+method3172(old228.class555 int int )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+old228.class125
+----------------------------
+
+method3347(int int )
+  Unable to fully structure code
+
+
+old228.class128
+----------------------------
+
+method3364(old228.class435 old228.class435 old228.class435 )
+  Unable to fully structure code
+
+
+old228.class134
+----------------------------
+
+method3438(old228.class361[] int int int int int int int int )
+  Unable to fully structure code
+
+
+old228.class151
+----------------------------
+
+method3599(old228.class103 int int int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[UNCONDITIONALDOLOOP]], but top level block is 4[UNCONDITIONALDOLOOP]
+
+
+old228.class161
+----------------------------
+
+method3703(old228.class556 )
+  Handled impossible loop by adding 'first' condition
+
+
+old228.class177
+----------------------------
+
+<init>(old228.class177[] int )
+  Handled impossible loop by adding 'first' condition
+method3917(int int int int int )
+  Unable to fully structure code
+
+
+old228.class187
+----------------------------
+
+method4237(old228.class195 boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 8[UNCONDITIONALDOLOOP]
+
+
+old228.class213
+----------------------------
+
+method4907()
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+class262
+----------------------------
+
+method5515(int int )
+  Unable to fully structure code
+
+
+class265
+----------------------------
+
+method5720(old228.class556 int )
+  Unable to fully structure code
+
+
+old228.class271
+----------------------------
+
+method5839(class265 int int int boolean )
+  Handled impossible loop by adding 'first' condition
+
+
+old228.class273
+----------------------------
+
+method5890(int old228.class81 boolean )
+  Unable to fully structure code
+
+
+old228.class275
+----------------------------
+
+method5935(old228.class103 old228.class99 int )
+  Unable to fully structure code
+
+
+old228.class277
+----------------------------
+
+method5942(int int int old228.class272 old228.class270 boolean int[] int[] old228.class273 )
+  Unable to fully structure code
+method5943(int int int old228.class272 old228.class270 old228.class273 )
+  Unable to fully structure code
+
+
+old228.class286
+----------------------------
+
+method6236(int int int int java.util.HashSet int int )
+  Unable to fully structure code
+
+
+old228.class334
+----------------------------
+
+method6711(old228.class342 old228.class391 old228.class45 )
+  Unable to fully structure code
+
+
+old228.class338
+----------------------------
+
+<init>(byte[] )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+old228.class358
+----------------------------
+
+method7058(class265 int class265 int )
+  Unable to fully structure code
+
+
+old228.class363
+----------------------------
+
+<init>(byte[] )
+  Handled impossible loop by adding 'first' condition
+
+
+old228.class370
+----------------------------
+
+method7617(old228.class103 old228.class99 int int int int int )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+old228.class393
+----------------------------
+
+method7859(old228.class103 )
+  Unable to fully structure code
+
+
+old228.class399
+----------------------------
+
+method7903(old228.class103 )
+  Unable to fully structure code
+
+
+old228.class406
+----------------------------
+
+method7975(old228.class103 byte[] int int int int )
+  Unable to fully structure code
+
+
+old228.class469
+----------------------------
+
+method9091(old228.class556 int )
+  Unable to fully structure code
+
+
+old228.class475
+----------------------------
+
+method9189(old228.class103 old228.class555 )
+  Unable to fully structure code
+
+
+old228.class508
+----------------------------
+
+method9614(byte[] int int )
+  Unable to fully structure code
+
+
+old228.class524
+----------------------------
+
+method9800(int int boolean boolean )
+  Unable to fully structure code
+
+
+old228.class547
+----------------------------
+
+method10152(old228.class556 int )
+  Unable to fully structure code
+
+
+old228.class559
+----------------------------
+
+method10557(old228.class558 )
+  Unable to fully structure code
+method10545(old228.class558 )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 60[SIMPLE_IF_TAKEN]
+
+
+old228.class570
+----------------------------
+
+method10764(int int int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 2[UNCONDITIONALDOLOOP]

@@ -1,0 +1,280 @@
+Summary for updated-228.jar
+Decompiled with CFR 0.152
+
+
+class1
+----------------------------
+
+method9(java.util.ArrayList int int int int boolean )
+  Unable to fully structure code
+
+
+class46
+----------------------------
+
+method900(float[] int boolean class60 )
+  Unable to fully structure code
+
+
+VorbisCodebook
+----------------------------
+
+method1115()
+  Handled impossible loop by adding 'first' condition
+
+
+VorbisSample
+----------------------------
+
+method1137(int )
+  Unable to fully structure code
+toRawSound(int[] )
+  Handled impossible loop by adding 'first' condition
+
+
+Client
+----------------------------
+
+doCycle()
+  Unable to fully structure code
+
+
+Player
+----------------------------
+
+updateInterface(Widget[] int int int int int int int )
+  Unable to fully structure code
+
+
+Actor
+----------------------------
+
+addHitSplat(int int int int int int )
+  Unable to fully structure code
+
+
+class112
+----------------------------
+
+method3172(PacketBuffer int int )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+UserComparator3
+----------------------------
+
+method3347(int int )
+  Unable to fully structure code
+
+
+BuddyRankComparator
+----------------------------
+
+drawTitle(Font Font Font )
+  Unable to fully structure code
+
+
+class134
+----------------------------
+
+drawInterface(Widget[] int int int int int int int int )
+  Unable to fully structure code
+
+
+class151
+----------------------------
+
+method3599(class103 int int int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[UNCONDITIONALDOLOOP]], but top level block is 4[UNCONDITIONALDOLOOP]
+
+
+ClanSettings
+----------------------------
+
+method3703(Buffer )
+  Handled impossible loop by adding 'first' condition
+
+
+ModelData
+----------------------------
+
+<init>(ModelData[] int )
+  Handled impossible loop by adding 'first' condition
+toModel(int int int int int )
+  Unable to fully structure code
+
+
+class187
+----------------------------
+
+method4237(class195 boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 8[UNCONDITIONALDOLOOP]
+
+
+class213
+----------------------------
+
+method4907()
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+ObjectComposition
+----------------------------
+
+getModelData(int int )
+  Unable to fully structure code
+
+
+SequenceDefinition
+----------------------------
+
+decodeNext(Buffer int )
+  Unable to fully structure code
+
+
+class271
+----------------------------
+
+method5839(SequenceDefinition int int int boolean )
+  Handled impossible loop by adding 'first' condition
+
+
+class273
+----------------------------
+
+method5890(int Script boolean )
+  Unable to fully structure code
+
+
+class275
+----------------------------
+
+method5935(class103 Actor int )
+  Unable to fully structure code
+
+
+class277
+----------------------------
+
+method5942(int int int RouteStrategy CollisionMap boolean int[] int[] class273 )
+  Unable to fully structure code
+method5943(int int int RouteStrategy CollisionMap class273 )
+  Unable to fully structure code
+
+
+WorldMapRenderer
+----------------------------
+
+drawOverview(int int int int java.util.HashSet int int )
+  Unable to fully structure code
+
+
+MidiPcmStream
+----------------------------
+
+method6711(MusicTrack AbstractArchive SoundCache )
+  Unable to fully structure code
+
+
+MusicPatch
+----------------------------
+
+<init>(byte[] )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+PlayerComposition
+----------------------------
+
+getModel(SequenceDefinition int SequenceDefinition int )
+  Unable to fully structure code
+
+
+Huffman
+----------------------------
+
+<init>(byte[] )
+  Handled impossible loop by adding 'first' condition
+
+
+WorldMapDecorationType
+----------------------------
+
+method7617(class103 Actor int int int int int )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+GrandExchangeEvents
+----------------------------
+
+method7859(class103 )
+  Unable to fully structure code
+
+
+GrandExchangeEvent
+----------------------------
+
+method7903(class103 )
+  Unable to fully structure code
+
+
+Language
+----------------------------
+
+method7975(class103 byte[] int int int int )
+  Unable to fully structure code
+
+
+FriendsList
+----------------------------
+
+read(Buffer int )
+  Unable to fully structure code
+
+
+AbstractUserComparator
+----------------------------
+
+method9189(class103 PacketBuffer )
+  Unable to fully structure code
+
+
+class508
+----------------------------
+
+method9614(byte[] int int )
+  Unable to fully structure code
+
+
+WorldMap
+----------------------------
+
+method9800(int int boolean boolean )
+  Unable to fully structure code
+
+
+DbTableType
+----------------------------
+
+method10152(Buffer int )
+  Unable to fully structure code
+
+
+BZip2Decompressor
+----------------------------
+
+method10557(BZip2State )
+  Unable to fully structure code
+BZip2Decompressor_decompress(BZip2State )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 60[SIMPLE_IF_TAKEN]
+
+
+SpritePixels
+----------------------------
+
+drawScaledWorldmap(int int int int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[UNCONDITIONALDOLOOP]], but top level block is 2[UNCONDITIONALDOLOOP]
